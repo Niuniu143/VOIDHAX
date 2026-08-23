@@ -1,11 +1,11 @@
 {
-  "menu_title": "IMMORTAL KING MOD",
+  "menu_title": "VOIDHAX MULTI LIB",
   "systems": [
     {
       "name": "OWL HAX",
       "status": "ONLINE",
       "lib_name": "lib1.so",
-      "download_url": "https://bonakidsilaakrigs.x10.mx/Farlight/lib1.so",
+      "download_url": "https://raw.githubusercontent.com/Niuniu143/VOIDHAX/refs/heads/main/VOIDHAX.json",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
