@@ -1,12 +1,12 @@
-[
+{
+  "menu_title": "IMMORTAL KING MOD",
+  "systems": [
     {
         "name": "IMMORTAL KING MOD RED",
         "status": "ONLINE",      
         "save_name": "lib1.so",
         "library_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/lib1.so",
         "package": "com.garena.game.codm",
-        "enabled": true,
-        "icon": "cod"
     },
     {
         "name": "IMMORTAL KING MOD VIOLET",
@@ -14,8 +14,6 @@
         "save_name": "libVIOLET.so",
         "library_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/libVIOLET.so",
         "package": "com.garena.game.codm",
-        "enabled": true,
-        "icon": "cod"
     },
     {
         "name": "IMMORTAL KING MOD BLACK",
@@ -23,8 +21,6 @@
         "save_name": "libBLACK.so",
         "library_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/libBLACK.so",
         "package": "com.garena.game.codm",
-        "enabled": true,
-        "icon": "cod"
     },
     {
         "name": "VVIP MODS",
@@ -32,8 +28,6 @@
         "save_name": "lib2.so",
         "library_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/lib2.so",
         "package": "com.garena.game.codm",
-        "enabled": true,
-        "icon": "cod"
     }
-]
+  ]
 
